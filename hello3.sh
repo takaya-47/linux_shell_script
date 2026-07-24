@@ -1,8 +1,13 @@
 #!/bin/bash
 # if [ "$#" -lt 1 ]; then
-if test "$#" -lt 1; then
-    echo "Usage: $0 <name>"
-    exit 1
-fi
-echo "Hello, $1!"
-exit 0
+case "$1" in
+    1)
+        echo "this is 1"
+        ;;
+    2)
+        echo "this is 2"
+        ;;
+    *)
+        echo "this is other"
+        ;;
+esac
