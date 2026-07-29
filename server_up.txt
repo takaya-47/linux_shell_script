@@ -1,0 +1,4 @@
+The following servers are up on Thu Jul 30 08:31:53 JST 2026
+Server up: 8.8.8.8
+Server up: 8.8.4.4
+Server up: 127.0.0.1
