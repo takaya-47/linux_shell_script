@@ -1,7 +1,5 @@
-hello
-world
-my
-name
-is
-taro
-tanaka
+hello, this is a test
+this is the second line
+finally, last line!!
+
+hoge, huga,   !!!
