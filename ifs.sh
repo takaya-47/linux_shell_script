@@ -5,6 +5,6 @@ IFS=$'\n'
 for line in $(cat "$FILE")
 do
     echo "$line"
-done
+done > result.txt
 
 exit 0
