@@ -1,8 +1,11 @@
 #!/bin/bash
-echo "you are using $(basename $0)"
+COUNT=10
 
-for n in "$@"
+while (( COUNT >= 0))
 do
-    echo "Hello $n"
+#    echo -e "$COUNT \c"
+    echo -n "$COUNT "
+    (( COUNT-- ))
 done
+echo
 exit 0
