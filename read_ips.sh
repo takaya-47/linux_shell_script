@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 if [ ! -f "$1" ]
 then
     echo "The input to $0 should be a filename"

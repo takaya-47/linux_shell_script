@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # if [ "$#" -lt 1 ]; then
 case "$1" in
     1)

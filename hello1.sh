@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 name="takaya"
 ages=(33 "二十歳" 55)
 echo $name

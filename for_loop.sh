@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 COUNT=10
 
 while (( COUNT >= 0))

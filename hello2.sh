@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 read -p "enter your name: " name
 echo "Hello $name!"
 read -sn1 -p "press any key to exit"

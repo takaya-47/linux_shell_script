@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 factorial() {
     local n=$1

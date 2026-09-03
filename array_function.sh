@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 myfunc () {
     echo "$@" # 配列全体を受け取る
     echo "$2" # 受け取った配列の2番目を受け取る（添え字だと１に該当するもの）
